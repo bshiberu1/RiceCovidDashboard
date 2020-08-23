@@ -1,0 +1,32 @@
+{
+    "id": "8D454D2E",
+    "path": null,
+    "project_path": null,
+    "type": "r_dataframe",
+    "hash": "0",
+    "contents": "",
+    "dirty": false,
+    "created": 1596957393611.0,
+    "source_on_save": false,
+    "relative_order": 12,
+    "properties": {
+        "expression": "allDatesNormalized",
+        "caption": "allDatesNormalized",
+        "totalObservations": 4784,
+        "displayedObservations": 4784,
+        "variables": 26,
+        "cacheKey": "42B3A09F",
+        "object": "allDatesNormalized",
+        "environment": "",
+        "contentUrl": "grid_resource/gridviewer.html?env=&obj=allDatesNormalized&cache_key=42B3A09F&max_cols=50",
+        "preview": 0
+    },
+    "folds": "",
+    "lastKnownWriteTime": 2223314287480,
+    "encoding": "",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1596957393611,
+    "read_only": false,
+    "read_only_alternatives": []
+}

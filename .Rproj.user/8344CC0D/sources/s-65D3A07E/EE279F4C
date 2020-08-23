@@ -1,0 +1,32 @@
+{
+    "id": "EE279F4C",
+    "path": null,
+    "project_path": null,
+    "type": "r_dataframe",
+    "hash": "0",
+    "contents": "",
+    "dirty": false,
+    "created": 1596842874486.0,
+    "source_on_save": false,
+    "relative_order": 5,
+    "properties": {
+        "expression": "patterns",
+        "caption": "patterns",
+        "totalObservations": 2537,
+        "displayedObservations": 2537,
+        "variables": 27,
+        "cacheKey": "9D329040",
+        "object": "patterns",
+        "environment": "",
+        "contentUrl": "grid_resource/gridviewer.html?env=&obj=patterns&cache_key=9D329040&max_cols=50",
+        "preview": 0
+    },
+    "folds": "",
+    "lastKnownWriteTime": 2323198878968,
+    "encoding": "",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1596842874486,
+    "read_only": false,
+    "read_only_alternatives": []
+}

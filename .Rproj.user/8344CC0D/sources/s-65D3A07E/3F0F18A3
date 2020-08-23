@@ -1,0 +1,32 @@
+{
+    "id": "3F0F18A3",
+    "path": null,
+    "project_path": null,
+    "type": "r_dataframe",
+    "hash": "0",
+    "contents": "",
+    "dirty": false,
+    "created": 1596955313817.0,
+    "source_on_save": false,
+    "relative_order": 11,
+    "properties": {
+        "expression": "X2020_06_24_csv",
+        "caption": "X2020_06_24_csv",
+        "totalObservations": 1910,
+        "displayedObservations": 1910,
+        "variables": 18,
+        "cacheKey": "20EF6C84",
+        "object": "X2020_06_24_csv",
+        "environment": "",
+        "contentUrl": "grid_resource/gridviewer.html?env=&obj=X2020_06_24_csv&cache_key=20EF6C84&max_cols=50",
+        "preview": 0
+    },
+    "folds": "",
+    "lastKnownWriteTime": 2318265800326340404,
+    "encoding": "",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1596955313817,
+    "read_only": false,
+    "read_only_alternatives": []
+}

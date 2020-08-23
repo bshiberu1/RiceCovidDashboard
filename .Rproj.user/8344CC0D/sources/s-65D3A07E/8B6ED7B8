@@ -1,0 +1,32 @@
+{
+    "id": "8B6ED7B8",
+    "path": null,
+    "project_path": null,
+    "type": "r_dataframe",
+    "hash": "0",
+    "contents": "",
+    "dirty": false,
+    "created": 1596869173299.0,
+    "source_on_save": false,
+    "relative_order": 8,
+    "properties": {
+        "expression": "patterns_part1_csv",
+        "caption": "patterns_part1_csv",
+        "totalObservations": 1042995,
+        "displayedObservations": 1042995,
+        "variables": 25,
+        "cacheKey": "4CC36BBC",
+        "object": "patterns_part1_csv",
+        "environment": "",
+        "contentUrl": "grid_resource/gridviewer.html?env=&obj=patterns_part1_csv&cache_key=4CC36BBC&max_cols=50",
+        "preview": 0
+    },
+    "folds": "",
+    "lastKnownWriteTime": 2314891110366847100,
+    "encoding": "",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1596869173299,
+    "read_only": false,
+    "read_only_alternatives": []
+}
